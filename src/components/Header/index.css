@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+
+.list-style {
+  list-style: none;
+  display: flex;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.name-style {
+  color: #6d396b;
+  font-weight: bold;
+  padding: 3px;
+}
+
+.image {
+  height: 80px;
+  width: 80px;
+}
+
+.image-class {
+  display: flex;
+}

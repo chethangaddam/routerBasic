@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notfound-contact {
+  height: 300px;
+  width: 300px;
+}
